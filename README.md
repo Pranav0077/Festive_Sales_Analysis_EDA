@@ -4,14 +4,23 @@ The analysis aims to uncover key insights about buyer demographics, purchasing p
 Project Workflow:
 Importing Necessary Libraries:Utilized libraries such as pandas, numpy, matplotlib, and seaborn for data manipulation and visualization.
 Loading the Dataset:Loaded the sales dataset for the festive season.
+
 Data Cleaning:Performed data cleaning to handle missing values, remove duplicates, and correct data types.
+
 Data Manipulation and Analysis:Conducted detailed data manipulation to prepare the data for analysis, including grouping, aggregating, and filtering based on various columns.
+
 Data Visualization:Created comprehensive visualizations to analyze the data across different dimensions:
+
 Gender: Compared purchasing patterns between males and females.
+
 Age Group: Analyzed buyer distribution across different age groups.
+
 State: Examined the geographic distribution of orders.
+
 Marital Status: Investigated the impact of marital status on purchasing behavior.
+
 Occupation: Studied the occupation of buyers to identify key sectors.
+
 Product Category: Explored the popularity of different product categories.
 
 Data Insights:
