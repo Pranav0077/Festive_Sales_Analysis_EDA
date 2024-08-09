@@ -25,10 +25,15 @@ Product Category: Explored the popularity of different product categories.
 
 Data Insights:
 Gender : Most of the buyers are females, who also exhibit greater purchasing power than males.
+
 Age Group : The majority of buyers are females aged between 25-35 years.
+
 State : Most orders originate from Uttar Pradesh, Maharashtra, Karnataka, and Delhi.
+
 Marital Status : Married women constitute a significant portion of buyers and have high purchasing power.
+
 Occupation : Key sectors with high buyer representation include IT, Healthcare, Aviation, and Banking.
+
 Product Category : Top-selling categories include Food, Clothing & Apparel, Electronics & Gadgets, and Footwear & Shoes.
 
 This project demonstrates the use of Python for conducting detailed sales analysis and deriving actionable insights, making it a valuable 
